@@ -1,2 +1,2 @@
-# Mystics-of-Volungaar
-WIP unciv mod, working out a ruleset mod
+# Volungaar-terrain-generation
+The first released part of the Mystics of Volungaar Ruleset mod. This mod changes the terrain generation for G&K. 
